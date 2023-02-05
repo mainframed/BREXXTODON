@@ -1,6 +1,6 @@
 # BREXXTODON
 
-![startup](loading.png)
+![startup](loading.png?)
 
 ![Toots](toots.png)
 
@@ -17,7 +17,7 @@ it (barely).
 
 Copy the rexx script `mastodon.rexx` to anywhere on your MVS 3.8j system,
 making sure you have the latest version of BREXX installed available
-https://github.com/mvslovers/brexx370/releases.
+https://github.com/mvslovers/brexx370.
 
 You'll also need an SSL stripping proxy. WebOne works really well and is
 availble here: https://github.com/atauenis/webone. Just make sure you
